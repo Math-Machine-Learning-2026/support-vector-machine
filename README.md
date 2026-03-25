@@ -4,7 +4,7 @@
 
 ## Descripción del proyecto
 
-Este proyecto explora de forma práctica la teoría y aplicación de las Máquinas de Vectores de Soporte (SVM). Acompañando a nuestro análisis teórico sobre Hard-SVM, Soft-SVM, métodos de kernel, costes asimétricos y clasificación multiclase, hemos desarrollado varios experimentos prácticos utilizando la librería `scikit-learn` de Python.
+Este proyecto explora de forma práctica la teoría y aplicación de las Máquinas de Vectores de Soporte (SVM). Acompañando a nuestro análisis teórico sobre Hard-SVM, Soft-SVM, métodos de kernel, costes asimétricos y clasificación multiclase que se pueden consultar en el [informe](informe/build/informe.pdf), hemos desarrollado varios experimentos prácticos utilizando la librería `scikit-learn` de Python.
 
 El código fuente está dividido en los siguientes Jupyter Notebooks:
 
@@ -39,4 +39,5 @@ Este script también incluye una demo interactiva que permite al usuario dibujar
 </p>
 
 ## Informe
-[Ver informe](informe/build/informe.pdf)
+
+Puedes consultar el informe completo con el análisis teórico en el siguiente enlace: [ver informe](informe/build/informe.pdf). También se ha incluido el código LaTeX del informe en el repositorio para su consulta: [informe.tex](informe/informe.tex).
